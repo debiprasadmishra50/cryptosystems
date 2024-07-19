@@ -1,5 +1,7 @@
 # CryptoSystems
 
+![Cryptography](./image.png)
+
 ## Table of Contents
 
 - [CryptoSystems](#cryptosystems)
@@ -349,3 +351,12 @@ While the provided example demonstrates the basic concepts of LWE and lattice-ba
 - The provided parameters are for educational purposes. In practice, you should use much larger parameters to ensure security.
 - Ensure the error distribution is chosen carefully. The standard deviation $\sigma$ plays a critical role in security.
 - This implementation is a simplified version and does not include various optimizations and security measures required for a production system.
+
+<br>
+<br>
+
+<center>
+
+Made with ❤️ by [Debi Prasad Mishra](https://debiprasadmishra.net)
+
+</center>
